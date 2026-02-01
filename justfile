@@ -17,4 +17,5 @@ init:
   conda install -c iopath iopath
   conda install pytorch3d -c pytorch3d
   conda install pytorch3d -c pytorch3d-nightly
+  conda install -y jupyterlab notebook ipykernel
 
