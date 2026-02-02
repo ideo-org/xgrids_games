@@ -18,4 +18,6 @@ init:
   conda install pytorch3d -c pytorch3d
   conda install pytorch3d -c pytorch3d-nightly
   conda install -y jupyterlab notebook ipykernel
+  conda install -c conda-forge matplotlib
+
 
